@@ -1,6 +1,8 @@
 # Himpunan Mahasiswa Informatika (HMIF) - Sekolah Tinggi Teknik (STT) Malang
 
-![HMIF STT Malang](https://example.com/path-to-your-logo.png) <!-- Ganti dengan link logo HMIF jika ada -->
+<div align="center">
+    <img src="assets/img/logo_hmif.jpg" alt="HMIF STT Malang" />
+</div>
 
 ## Tentang Kami
 
