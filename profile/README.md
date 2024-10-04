@@ -26,12 +26,15 @@ HMIF STT Malang rutin mengadakan berbagai kegiatan yang melibatkan mahasiswa dan
 
 ## Struktur Kepengurusan
 
-- **Ketua**: Nama Ketua
-- **Wakil Ketua**: Nama Wakil Ketua
-- **Sekretaris**: Nama Sekretaris
-- **Bendahara**: Nama Bendahara
-- **Koordinator Divisi Pendidikan**: Nama Koordinator
-- **Koordinator Divisi Sosial**: Nama Koordinator
+- **Ketua**: Aventus Akong
+- **Wakil Ketua**: Alvaro Arvinsya  Jamaliardo Sombuk
+- **Sekretaris I**: Nadya Mujahidah Fillah
+- **Sekretaris II**: Dinda Erlina Putri
+- **Bendahara**: Adinda Fatika Firzaturrohman
+- **Koordinator Divisi Humas I**: Fredikardus Lalong Satu
+- **Anggota Divisi Humas II**: Mayang Wulan Dahri
+- **Koordinator Divisi Ristek I**: Ardiansyah
+-  **Anggota Divisi Ristek I**
 - **Koordinator Divisi Humas**: Nama Koordinator
 
 ## Proyek dan Kontribusi
