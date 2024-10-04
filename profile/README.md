@@ -41,22 +41,19 @@ HMIF STT Malang rutin mengadakan berbagai kegiatan yang melibatkan mahasiswa dan
 - **Koordinator Divisi Medkom**: Haeqel Abdel Fawwazi Reyhan
 - **Anggota Divisi Medkom**: Adelia Jasmine Ayu Yuliani
 - **Koordinator Divisi Kearsipan**: Adinda Elvira Salsabiil
-- **Koordinator Divisi Minat & Bakat**:-
 
 ## Proyek dan Kontribusi
 
 Kami secara aktif mengembangkan beberapa proyek open-source yang dapat diakses oleh publik. Semua mahasiswa dan komunitas luar diundang untuk berkontribusi dan berkolaborasi dalam pengembangan proyek ini. Beberapa proyek yang sedang berjalan:
 
-- **Sistem Informasi Akademik (SIAKAD)**: Proyek pengembangan sistem informasi untuk membantu pengelolaan akademik di STT Malang.
-- **Sistem Absensi Berbasis Web**: Proyek pengembangan sistem absensi dengan menggunakan teknologi web modern dan integrasi perangkat keras.
 - **Website HMIF**: Website resmi untuk HMIF STT Malang yang menyediakan informasi terbaru mengenai kegiatan, event, dan pengumuman.
 
 ## Cara Bergabung
 
-Kami selalu terbuka bagi mahasiswa baru yang ingin bergabung dan berkontribusi dalam HMIF STT Malang. Jika Anda tertarik untuk bergabung, silakan hubungi kami melalui email atau datang langsung ke sekretariat HMIF di kampus.
+Kami selalu terbuka bagi mahasiswa baru yang ingin bergabung dan berkontribusi dalam HMIF STT Malang. Jika Anda tertarik untuk bergabung, silakan hubungi kami melalui akun instagram atau datang langsung ke sekretariat HMIF di kampus.
 
-- **Email**: hmif@sttmalang.ac.id
-- **Alamat**: Sekretariat HMIF, Gedung B, STT Malang, Jalan Teknik No. 123, Malang, Indonesia.
+- **Instagram**: @hmifsttmlg
+- **Alamat**: Jl. Candi Panggung Barat No. 48, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65142.
 
 ---
 
