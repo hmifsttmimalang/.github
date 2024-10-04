@@ -34,8 +34,14 @@ HMIF STT Malang rutin mengadakan berbagai kegiatan yang melibatkan mahasiswa dan
 - **Koordinator Divisi Humas I**: Fredikardus Lalong Satu
 - **Anggota Divisi Humas II**: Mayang Wulan Dahri
 - **Koordinator Divisi Ristek I**: Ardiansyah
--  **Anggota Divisi Ristek I**
-- **Koordinator Divisi Humas**: Nama Koordinator
+-  **Anggota Divisi Ristek I**: Adi Chandra Isro’ SalSabilla
+-  **Anggota Divisi Ristek I**: Adinda Elvira Salsabiil
+- **Koordinator Divisi Desain**: Domisianus Susanto
+- **Anggota Divisi Desain**: Weta Silviyana Dewi
+- **Koordinator Divisi Medkom**: Haeqel Abdel Fawwazi Reyhan
+- **Anggota Divisi Medkom**: Adelia Jasmine Ayu Yuliani
+- **Koordinator Divisi Kearsipan**: Adinda Elvira Salsabiil
+- **Koordinator Divisi Minat & Bakat**:-
 
 ## Proyek dan Kontribusi
 
