@@ -21,7 +21,6 @@ HMIF STT Malang rutin mengadakan berbagai kegiatan yang melibatkan mahasiswa dan
 
 - **Seminar & Workshop**: Mengundang praktisi di bidang teknologi untuk berbagi ilmu dan pengalaman.
 - **Pelatihan**: Membantu mahasiswa mempelajari keterampilan baru, seperti pemrograman, desain web, pengembangan aplikasi, dan lainnya.
-- **Kompetisi**: Menyelenggarakan dan berpartisipasi dalam berbagai kompetisi informatika baik di tingkat regional maupun nasional.
 - **Pengabdian Masyarakat**: Mengaplikasikan pengetahuan teknologi untuk membantu masyarakat sekitar melalui berbagai proyek sosial.
 
 ## Struktur Kepengurusan
