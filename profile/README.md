@@ -52,7 +52,7 @@ Kami secara aktif mengembangkan beberapa proyek open-source yang dapat diakses o
 Kami selalu terbuka bagi mahasiswa baru yang ingin bergabung dan berkontribusi dalam HMIF STT Malang. Jika Anda tertarik untuk bergabung, silakan hubungi kami melalui akun instagram atau datang langsung ke sekretariat HMIF di kampus.
 
 - **Instagram**: @hmifsttmlg
-- **Alamat**: Jl. Candi Panggung Barat No. 48, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65142.
+- **Alamat**: Jl. Simpang Candi Panggung No. 133, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur, 65142.
 
 ---
 
